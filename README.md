@@ -1,6 +1,6 @@
 # UniverseDawnAllyTool
 Ally Tool for Universe Dawn. 
-Geschrieben vom User FloWzoW für die Ally ~Die 7 Zwerge~ und dessen Allianzpartnern, 
+Geschrieben vom User FloWzoW für die Ally _Die 7 Zwerge_ und dessen Allianzpartnern, 
 aber alle anderen die mögen dürfen das Tool natürlich auch benutzen.
 
 Hier die Todo Liste zur Entwicklung dieses Tools:
@@ -11,7 +11,7 @@ Hier die Todo Liste zur Entwicklung dieses Tools:
 - Asteroidensuche
 - Aufschlüsselung von Gebäude- und Forschungslevel
 - Datenbank für Scans, das benötigt:
-    - Browserplugin welches aus der Tabelle Daten überträgt (Happy fragen ob erlaubt)
+    - ~Browserplugin welches aus der Tabelle Daten überträgt (Happy fragen ob erlaubt)~ (nicht erlaubt)
     - oder RichTextField wo man einfach copy-paste rein machen kann 
     - Datenbanksuche mit Filter für Wurmlöcher, Fleets, Plannis, ...
 - Wurmloch Flugrechner
@@ -47,6 +47,7 @@ Technische todos:
 - Supabase
 - SQLite
 - dockerfile
+- UD hat eigene APIs, Zugänge erfragen
 
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
