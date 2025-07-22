@@ -3,6 +3,8 @@ Ally Tool for Universe Dawn.
 Geschrieben vom User FloWzoW für die Ally _Die 7 Zwerge_ und dessen Allianzpartnern, 
 aber alle anderen die mögen dürfen das Tool natürlich auch benutzen.
 
+Um das Tool zu hosten soll man später einfach ein Dockerimage haben welches man auf dem billigen 1&1-Ionos-VPS für 1€/Monat benutzen kann.
+
 Hier die Todo Liste zur Entwicklung dieses Tools:
 - User-Registrierung und Verwaltung
     - inkl Seite für Permissionsvergabe
@@ -15,6 +17,7 @@ Hier die Todo Liste zur Entwicklung dieses Tools:
     - oder RichTextField wo man einfach copy-paste rein machen kann 
     - Datenbanksuche mit Filter für Wurmlöcher, Fleets, Plannis, ...
 - Wurmloch Flugrechner
+- Akustischer Timer
 - Anflugrechner
     - Sollte Public sein damit man einen Raum (als Link) erstellen kann und diesen an Ally-Partner weitergeben kann
     - Eingabe von Start-, Ziel-Koords und Geschwindigkeit
