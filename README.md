@@ -18,6 +18,8 @@ Hier die Todo Liste zur Entwicklung dieses Tools:
     - Datenbanksuche mit Filter für Wurmlöcher, Fleets, Plannis, ...
 - Wurmloch Flugrechner
 - Akustischer Timer
+- Gebäudekostenrechner
+    - zum ausrechnen was man einkaufen muss inkl Abzug am Planni liegender Ress
 - Anflugrechner
     - Sollte Public sein damit man einen Raum (als Link) erstellen kann und diesen an Ally-Partner weitergeben kann
     - Eingabe von Start-, Ziel-Koords und Geschwindigkeit
